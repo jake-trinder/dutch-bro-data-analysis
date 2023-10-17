@@ -1,0 +1,570 @@
+index,Address,State,City,Postal Code,Index,Location,Latitude,Longitude
+0,301 Regent St,AZ,Flagstaff,86001,1,"301 Regent St Flagstaff, AZ",35.192266,-111.642786
+1,1771 N Fourth St,AZ,Flagstaff,86004,2,"1771 N Fourth St Flagstaff, AZ",35.205072,-111.612581
+2,"2250 Highway 95, Suit 42",AZ,Bullhead City,86442,3,"2250 Highway 95, Suit 42 Bullhead City, AZ",35.104607,-114.596733
+3,3701 N Stockton Hill Rd,AZ,Kingman,86409,4,"3701 N Stockton Hill Rd Kingman, AZ",35.230096,-114.037474
+4,5963 E State Rt 69,AZ,Prescott Valley,86314,5,"5963 E State Rt 69 Prescott Valley, AZ",34.578844,-112.361398
+5,3169 Willow Creek Rd,AZ,Prescott,86301,6,"3169 Willow Creek Rd Prescott, AZ",34.598127,-112.45808
+6,1519 E. State Route 89A,AZ,Cottonwood,86326,7,"1519 E. State Route 89A Cottonwood, AZ",34.728358,-112.010775
+7,8387 W. Thunderbird Rd.,AZ,Peoria,85381,8,"8387 W. Thunderbird Rd. Peoria, AZ",33.609666,-112.239922
+8,14160 W. Indian School Rd.,AZ,Goodyear,85395,9,"14160 W. Indian School Rd. Goodyear, AZ",33.486296,-112.363481
+9,13855 W. Bell Rd,AZ,Surprise,85374,10,"13855 W. Bell Rd Surprise, AZ",33.638203,-112.358296
+10,13929 N 83rd Ave,AZ,Peoria,85226,11,"13929 N 83rd Ave Peoria, AZ",33.611281,-112.236937
+11,5724 W. Bell Road,AZ,Glendale,85308,12,"5724 W. Bell Road Glendale, AZ",33.638973,-112.183268
+12,6965 N 95th Ave.,AZ,Glendale,85305,13,"6965 N 95th Ave. Glendale, AZ",33.536694,-112.263337
+13,580 N Estrella Pkwy,AZ,Goodyear,85338,14,"580 N Estrella Pkwy Goodyear, AZ",33.452995,-112.392991
+14,1005 S Watson Rd.,AZ,Buckeye,85326,15,"1005 S Watson Rd. Buckeye, AZ",33.437707,-112.555842
+15,1037 S. Rural Rd.,AZ,Tempe,85281,16,"1037 S. Rural Rd. Tempe, AZ",33.416979,-111.926038
+16,2961 E. Bell Rd.,AZ,Phoenix,85032,17,"2961 E. Bell Rd. Phoenix, AZ",33.640336,-112.018022
+17,2012 N Scottsdale Rd,AZ,Scottsdale,85257,18,"2012 N Scottsdale Rd Scottsdale, AZ",33.46973,-111.927272
+18,4433 N 7th Street,AZ,Phoenix,85014,19,"4433 N 7th Street Phoenix, AZ",33.500889,-112.064608
+19,3213 S. Mill Ave.,AZ,Tempe,85282,20,"3213 S. Mill Ave. Tempe, AZ",33.394024,-111.93936
+20,1960 E. McKellips Rd.,AZ,Mesa,85203,21,"1960 E. McKellips Rd. Mesa, AZ",33.452011,-111.788042
+21,722 N. McQueen Rd.,AZ,Gilbert,85233,22,"722 N. McQueen Rd. Gilbert, AZ",33.362969,-111.824983
+22,6461 S. Rural Rd.,AZ,Tempe,85283,23,"6461 S. Rural Rd. Tempe, AZ",33.362826,-111.928369
+23,1136 S. Greenfield Rd.,AZ,Mesa,85206,24,"1136 S. Greenfield Rd. Mesa, AZ",33.394821,-111.737092
+24,1201 E. Glendale Ave.,AZ,Phoenix,85020,25,"1201 E. Glendale Ave. Phoenix, AZ",33.537627,-112.055866
+25,12629 N. Paradise Village Pkwy.,AZ,Phoenix,85032,26,"12629 N. Paradise Village Pkwy. Phoenix, AZ",33.602169,-111.988111
+26,1326 S. Alma School Rd,AZ,Mesa,85210,27,"1326 S. Alma School Rd Mesa, AZ",33.39057,-111.857725
+27,459 N. Gilbert Rd,AZ,Gilbert,85234,28,"459 N. Gilbert Rd Gilbert, AZ",33.358618,-111.788078
+28,6235 E. Bell Rd.,AZ,Scottsdale,85254,29,"6235 E. Bell Rd. Scottsdale, AZ",33.639992,-111.945266
+29,20795 N. Scottsdale Rd.,AZ,Scottsdale,85255,30,"20795 N. Scottsdale Rd. Scottsdale, AZ",33.675746,-111.924628
+30,3045 E. Indian School Rd,AZ,Phoenix,85016,31,"3045 E. Indian School Rd Phoenix, AZ",33.494856,-112.016004
+31,3670 S Val Vista DR.,AZ,Gilbert,85297,32,"3670 S Val Vista DR. Gilbert, AZ",33.28386,-111.755862
+32,3215 E Chandler Blvd,AZ,Phoenix,85048,33,"3215 E Chandler Blvd Phoenix, AZ",33.304566,-112.013402
+33,15600 N Hayden Rd,AZ,Scottsdale,85260,34,"15600 N Hayden Rd Scottsdale, AZ",33.627902,-111.896655
+34,3665 W Chandler Blvd,AZ,Chandler,85226,35,"3665 W Chandler Blvd Chandler, AZ",33.305147,-111.905102
+35,1370 S Higley Rd,AZ,Gilbert,85296,36,"1370 S Higley Rd Gilbert, AZ",33.325432,-111.721889
+36,34350 N Cave creek road,AZ,Cave Creek ,85331,37,"34350 N Cave creek road Cave Creek , AZ",33.79595,-111.966367
+37,8975 N 90th Street,AZ,Scottsdale,85250,38,"8975 N 90th Street Scottsdale, AZ",33.567609,-111.886916
+38,3055 S Gilbert Rd,AZ,Chandler,85286,39,"3055 S Gilbert Rd Chandler, AZ",33.294934,-111.789554
+39,20232 N John Wayne Pkwy,AZ,Maricopa,85139,40,"20232 N John Wayne Pkwy Maricopa, AZ",33.063064,-112.048762
+40,2211 E Florence Blvd,AZ,Casa Grande,85122,41,"2211 E Florence Blvd Casa Grande, AZ",32.879303,-111.692002
+41,5690 W Cortaro Farms Rd,AZ,Tucson,85742,42,"5690 W Cortaro Farms Rd Tucson, AZ",32.360189,-111.0866
+42,9730 N. Oracle Road,AZ,Oro Valley,85704,43,"9730 N. Oracle Road Oro Valley, AZ",32.383523,-110.963319
+43,4144 W Ina RD,AZ,Tucson,85741,44,"4144 W Ina RD Tucson, AZ",32.338033,-111.053611
+44,4565 N Oracle Rd,AZ,Tucson ,85705,45,"4565 N Oracle Rd Tucson , AZ",32.289162,-110.978716
+45,4621 E. Grant Rd,AZ,Tucson,85712,46,"4621 E. Grant Rd Tucson, AZ",32.251145,-110.894496
+46,3901 E 22nd St. ,AZ,Tucson,85712,47,"3901 E 22nd St.  Tucson, AZ",32.207615,-110.909105
+47,3700 E Speedway Blvd SEC ,AZ,Tucson ,85716,48,"3700 E Speedway Blvd SEC  Tucson , AZ",32.235848,-110.912868
+48,1971 Valencia Rd,AZ,Tucson,85746,49,"1971 Valencia Rd Tucson, AZ",32.133407,-111.008923
+49,18800 S Nogales Hwy,AZ,Green Valley,85614,50,"18800 S Nogales Hwy Green Valley, AZ",31.908558,-110.982889
+50,2995 S. Kino Parkway,AZ,Tucson,85713,51,"2995 S. Kino Parkway Tucson, AZ",32.187271,-110.944168
+51,120 S Wilmot Rd.,AZ,Tucson,85711,52,"120 S Wilmot Rd. Tucson, AZ",32.220018,-110.858405
+52,9330 E Golf Links Rd,AZ,Tucson,85748,53,"9330 E Golf Links Rd Tucson, AZ",32.191274,-110.793286
+53,10105 E Old Vail Rd,AZ,Tucson,85747,54,"10105 E Old Vail Rd Tucson, AZ",32.089637,-110.77683
+54,6725 E Tanque Verde Rd,AZ,Tucson,85712,55,"6725 E Tanque Verde Rd Tucson, AZ",32.249097,-110.849253
+55,475 North Highway 90,AZ,Sierra Vista,85635,56,"475 North Highway 90 Sierra Vista, AZ",31.560337,-110.257205
+56,1512 S. 4th Ave,AZ,Yuma ,85364,57,"1512 S. 4th Ave Yuma , AZ",32.700013,-114.625009
+57,3002 South 4th Aze,AZ,Yuma ,85364,58,"3002 South 4th Aze Yuma , AZ",32.672763,-114.625149
+58,11350 S Fortuna Rd,AZ,Yuma,85367,59,"11350 S Fortuna Rd Yuma, AZ",32.664807,-114.444645
+59,20898 E. Queen Creek Rd.,AZ,Queen Creek,85142,60,"20898 E. Queen Creek Rd. Queen Creek, AZ",33.263788,-111.632682
+60,38158 N. Gantzel Rd.,AZ,San Tan Valley,85140,61,"38158 N. Gantzel Rd. San Tan Valley, AZ",33.225365,-111.563684
+61,944 W Apache Trail,AZ,Apache Junction,85120,62,"944 W Apache Trail Apache Junction, AZ",33.415681,-111.557112
+62,2709 S Singal Butte Rd.,AZ,Mesa,85209,63,"2709 S Singal Butte Rd. Mesa, AZ",33.365903,-111.600889
+63,602 S Beeline Hwy,AZ,Payson,85541,64,"602 S Beeline Hwy Payson, AZ",34.233269,-111.323952
+64,711 Broadway,CA,Sonoma,95476,65,"711 Broadway Sonoma, CA",38.288149,-122.458764
+65,2815 B Jefferson St,CA,Napa,94558,66,"2815 B Jefferson St Napa, CA",38.313946,-122.297712
+66,1509 E Hammer Ln,CA,Stockton,95210,67,"1509 E Hammer Ln Stockton, CA",38.021247,-121.293785
+67,1130 E March Lane,CA,Stockton,95210,68,"1130 E March Lane Stockton, CA",38.001509,-121.291745
+68,1665 pacific ave,CA,Stockton,95204,69,"1665 pacific ave Stockton, CA",37.968625,-121.299101
+69,139 S Center St,CA,Stockton,95202,70,"139 S Center St Stockton, CA",37.950607,-121.291159
+70,1105 W Yosemite Ave,CA,Manteca,95337,71,"1105 W Yosemite Ave Manteca, CA",37.797773,-121.231702
+71,15135 Old Harlan Rd,CA,Lathrop,95330,72,"15135 Old Harlan Rd Lathrop, CA",37.825017,-121.289531
+72,1220 Colony Rd,CA,Ripon,95366,73,"1220 Colony Rd Ripon, CA",37.753544,-121.136254
+73,810 N Yosemite Ave,CA,Oakdale,95361,74,"810 N Yosemite Ave Oakdale, CA",37.776376,-120.853131
+74,1201 W. Monte Vista Ave,CA,Turlock,95382,75,"1201 W. Monte Vista Ave Turlock, CA",37.522283,-120.862916
+75,1524 McHenry Ave,CA,Modesto,95350,76,"1524 McHenry Ave Modesto, CA",37.666238,-120.992566
+76,901 N. Carpenter Rd.,CA,Modesto,95351,77,"901 N. Carpenter Rd. Modesto, CA",37.648026,-121.032118
+77,699 N Golden State Rd,CA,Turlock,95380,78,"699 N Golden State Rd Turlock, CA",37.499397,-120.850205
+78,2005 E Childs Ave,CA,Merced,95341,79,"2005 E Childs Ave Merced, CA",37.288259,-120.452925
+79,1430 E Pacheco Blvd,CA,Los Banos,93635,80,"1430 E Pacheco Blvd Los Banos, CA",37.057266,-120.832894
+80,575 W Olive Ave,CA,Merced,95348,81,"575 W Olive Ave Merced, CA",37.319633,-120.477619
+81,1773 W. Bullard Ave.,CA,Fresno,93711,82,"1773 W. Bullard Ave. Fresno, CA",36.822475,-119.825912
+82,1768 W. Shaw Ave,CA,Fresno,93711,83,"1768 W. Shaw Ave Fresno, CA",36.808674,-119.825685
+83,4982 E. Ashlan Ave.,CA,Fresno,93726,84,"4982 E. Ashlan Ave. Fresno, CA",36.793812,-119.728545
+84,1831 E. McKinley Ave,CA,Fresno,93703,85,"1831 E. McKinley Ave Fresno, CA",36.76526,-119.788935
+85,10033 N Maple Avenue,CA,Fresno,93720,86,"10033 N Maple Avenue Fresno, CA",36.881384,-119.748689
+86,7090 N Palm Ave Suite 101,CA,Fresno,93620,87,"7090 N Palm Ave Suite 101 Fresno, CA",36.838425,-119.807841
+87,1690 Herndon Ave,CA,Clovis,93611,88,"1690 Herndon Ave Clovis, CA",36.837105,-119.68448
+88,6770 N Brawley Ave. Suite 101,CA,Fresno,93711,89,"6770 N Brawley Ave. Suite 101 Fresno, CA",36.836849,-119.861812
+89,525 Academy Ave.,CA,Sanger,93657,90,"525 Academy Ave. Sanger, CA",36.712102,-119.557254
+90,113 Riverwalk Blvd S.,CA,Madera,93636,91,"113 Riverwalk Blvd S. Madera, CA",36.962353,-120.063484
+91,715 Sunrise Ave,CA,Roseville,95661,92,"715 Sunrise Ave Roseville, CA",38.735146,-121.271748
+92,8663 Auburn Folsom Rd.,CA,Granite Bay,95746,93,"8663 Auburn Folsom Rd. Granite Bay, CA",38.741601,-121.170211
+93,1225 Baseline Road,CA,Roseville,95661,94,"1225 Baseline Road Roseville, CA",38.7516,-121.310401
+94,430 S. Main St.,CA,Red Bluff,96080,95,"430 S. Main St. Red Bluff, CA",40.16639,-122.227793
+95,796 Antelope Blvd,CA,Red Bluff,96080,96,"796 Antelope Blvd Red Bluff, CA",40.186071,-122.197255
+96,904 Newville Rd.,CA,Orland,95963,97,"904 Newville Rd. Orland, CA",39.749641,-122.202056
+97,2340 Oro Dam Blvd. E.,CA,Oroville,95966,98,"2340 Oro Dam Blvd. E. Oroville, CA",39.505709,-121.547647
+98,6901 Skyway,CA,Paradise,95969,99,"6901 Skyway Paradise, CA",39.76412,-121.620472
+99,8610 Elk Grove Blvd,CA,Elk Grove,95624,100,"8610 Elk Grove Blvd Elk Grove, CA",38.408687,-121.384917
+100,8841 Sheldon Road,CA,Elk Grove,95624,101,"8841 Sheldon Road Elk Grove, CA",38.438312,-121.372344
+101,4750 Florin RD,CA,Sacramento,95823,102,"4750 Florin RD Sacramento, CA",38.495517,-121.450567
+102,2602 Kettleman Ln,CA,Lodi,95242,103,"2602 Kettleman Ln Lodi, CA",38.115088,-121.308025
+103,530 S Cherokee Ln,CA,Lodi,95240,104,"530 S Cherokee Ln Lodi, CA",38.128294,-121.260014
+104,325 Pine ST,CA,Galt,95632,105,"325 Pine ST Galt, CA",38.252888,-121.294098
+105,7445 Madison Ave.,CA,Citrus Heights,95610,106,"7445 Madison Ave. Citrus Heights, CA",38.6641,-121.290757
+106,5289 Auburn Blvd.,CA,Sacramento,95841,107,"5289 Auburn Blvd. Sacramento, CA",38.665601,-121.34279
+107,8552 Madison Ave,CA,Fair Oaks,95628,108,"8552 Madison Ave Fair Oaks, CA",38.664044,-121.242971
+108,4625 Manzanita Ave.,CA,Carmichael,95608,109,"4625 Manzanita Ave. Carmichael, CA",38.648767,-121.328138
+109,4341 Antelope Dr.,CA,Antelope,95843,110,"4341 Antelope Dr. Antelope, CA",38.704447,-121.362401
+110,7853 Lichen DR,CA,Citrus Heights,95621,111,"7853 Lichen DR Citrus Heights, CA",38.708323,-121.313479
+111,1300 Mendocino Ave.,CA,Santa Rosa,95401,112,"1300 Mendocino Ave. Santa Rosa, CA",38.453129,-122.71699
+112,560 L St.,CA,Crescent City,95531,113,"560 L St. Crescent City, CA",41.755841,-124.196221
+113,3995 Grass Valley Hwy.,CA,Auburn,95602,114,"3995 Grass Valley Hwy. Auburn, CA",38.956333,-121.101728
+114,3450 Sunset Blvd.,CA,Rocklin,95677,115,"3450 Sunset Blvd. Rocklin, CA",38.784571,-121.248357
+115,405 Grass Valley Hwy,CA,Auburn,95603,116,"405 Grass Valley Hwy Auburn, CA",38.90453,-121.077006
+116,2094 Nevada City Hwy,CA,Grass Valley,95945,117,"2094 Nevada City Hwy Grass Valley, CA",39.238093,-121.036811
+117,1108 Broadway,CA,Eureka,95501,118,"1108 Broadway Eureka, CA",40.796349,-124.17583
+118,430 N St.,CA,Eureka,95501,119,"430 N St. Eureka, CA",40.803458,-124.157661
+119,1332 E. Main St.,CA,Woodland,95776,120,"1332 E. Main St. Woodland, CA",38.677017,-121.76042
+120,7 Main St.,CA,Woodland,95695,121,"7 Main St. Woodland, CA",38.677715,-121.783348
+121,980 W. Olive Dr.,CA,Davis,95616,122,"980 W. Olive Dr. Davis, CA",38.54044,-121.738571
+122,2375 North First Street,CA,Dixon,95620,123,"2375 North First Street Dixon, CA",38.468023,-121.823032
+123,2030 Trade Court,CA,Woodland,95776,124,"2030 Trade Court Woodland, CA",38.675975,-121.727779
+124,1115 Pitt School Road Dixon,CA,Dixon,95620,125,"1115 Pitt School Road Dixon Dixon, CA",38.455793,-121.841293
+125,1092 Main St.,CA,Oakley,95461,126,"1092 Main St. Oakley, CA",38.005505,-121.748991
+126,8870 Brentwood Blvd,CA,Brentwood,94513,127,"8870 Brentwood Blvd Brentwood, CA",37.922194,-121.687109
+127,2221 Churn Creek,CA,Redding,96002,128,"2221 Churn Creek Redding, CA",40.575504,-122.352668
+128,695 N. Market St.,CA,Redding,96003,129,"695 N. Market St. Redding, CA",40.59637,-122.386712
+129,2900 Churn Creek Rd.,CA,Redding,96002,130,"2900 Churn Creek Rd. Redding, CA",40.565657,-122.353519
+130,3025 South Market,CA,Redding,96001,131,"3025 South Market Redding, CA",40.569027,-122.387708
+131,8548 Airport Rd.,CA,Redding,96002,132,"8548 Airport Rd. Redding, CA",40.536156,-122.303143
+132,9477 Deschutes Rd.,CA,Palo Cedro,96073,133,"9477 Deschutes Rd. Palo Cedro, CA",40.563291,-122.238443
+133,1200 Market St.,CA,Redding,96001,134,"1200 Market St. Redding, CA",40.587406,-122.392372
+134,5025 Rhonda Road,CA,Anderson,96007,135,"5025 Rhonda Road Anderson, CA",40.433792,-122.288986
+135,480 E. Park Ave.,CA,Chico,95928,136,"480 E. Park Ave. Chico, CA",39.71505,-121.805546
+136,2393 Cohasset Rd.,CA,Chico,95928,137,"2393 Cohasset Rd. Chico, CA",39.757754,-121.844369
+137,1733 Esplanade,CA,Chico,95928,138,"1733 Esplanade Chico, CA",39.744832,-121.851282
+138,196 Humboldt Avenue,CA,Chico,95928,139,"196 Humboldt Avenue Chico, CA",39.725697,-121.834107
+139,13401 Garner Ln,CA,Chico,95973,140,"13401 Garner Ln Chico, CA",39.790099,-121.892293
+140,1420 W. Texas St.,CA,Fairfield,94533,141,"1420 W. Texas St. Fairfield, CA",38.249574,-122.053095
+141,101 Peabody Road,CA,Vacaville,95687,142,"101 Peabody Road Vacaville, CA",38.353582,-121.975823
+142,3500 Alamo Dr,CA,Vacaville,95687,143,"3500 Alamo Dr Vacaville, CA",38.334988,-121.952394
+143,1000A Riley St,CA,Folsom,95630,144,"1000A Riley St Folsom, CA",38.67072,-121.169083
+144,9922 Live Oak Blvd.,CA,Live Oak,95953,145,"9922 Live Oak Blvd. Live Oak, CA",39.273981,-121.661156
+145,411 Colusa Ave,CA,Yuba City,95991,146,"411 Colusa Ave Yuba City, CA",39.141783,-121.61551
+146,4130 Northgate Blvd,CA,Sacramento,95834,147,"4130 Northgate Blvd Sacramento, CA",38.644466,-121.47571
+147,4250 El Camino Ave. ,CA,Sacramento,95821,148,"4250 El Camino Ave.  Sacramento, CA",38.609896,-121.364811
+148,1234 Howe Ave,CA,Sacramento,95825,149,"1234 Howe Ave Sacramento, CA",38.588456,-121.414518
+149,5140 Stockton Blvd,CA,Sacramento ,95820,150,"5140 Stockton Blvd Sacramento , CA",38.52872,-121.444933
+150,81 - 776 Highway 111,CA,Indio,92201,151,"81 - 776 Highway 111 Indio, CA",33.82086,-116.494233
+151,44175 Jefferson St,CA,La Quinta,92253,152,"44175 Jefferson St La Quinta, CA",33.727881,-116.268951
+152,864 N Prospect St,CA,Porterville,93257,153,"864 N Prospect St Porterville, CA",36.081528,-119.043874
+153,2066 E. Prosperity Ave,CA,Tulare,93274,154,"2066 E. Prosperity Ave Tulare, CA",36.226126,-119.314825
+154,2028 W. Ave I,CA,Lancaster,93536,155,"2028 W. Ave I Lancaster, CA",34.703924,-118.166654
+155,2560 E Palmdale Blvd,CA,Palmdale,93550,156,"2560 E Palmdale Blvd Palmdale, CA",34.58009,-118.080502
+156,44318 20th St E.,CA,Lancaster,93535,157,"44318 20th St E. Lancaster, CA",34.688903,-118.094633
+157,213 S China Lake Blvd,CA,Ridgecrest,93555,158,"213 S China Lake Blvd Ridgecrest, CA",35.622265,-117.669958
+158,728 S Mooney Blvd.,CA,Visalia,93277,159,"728 S Mooney Blvd. Visalia, CA",36.324528,-119.313871
+159,827 S. Akers St,CA,Visalia,93277,160,"827 S. Akers St Visalia, CA",36.323433,-119.350426
+160,213 S145  N. Alta Ave,CA,Dinuba ,93618,161,"213 S145  N. Alta Ave Dinuba , CA",36.552539,-119.39517
+161,3150 N. Demaree St,CA,Visalia ,93291,162,"3150 N. Demaree St Visalia , CA",36.358006,-119.33197
+162,21690 Bear Valley RD,CA,Apple Valley,92308,163,"21690 Bear Valley RD Apple Valley, CA",34.471913,-117.190563
+163,14788 Bear Valley Road,CA,Victorville,92395,164,"14788 Bear Valley Road Victorville, CA",34.47144,-117.341162
+164,1440 E Main St,CA,Barstow ,92311,165,"1440 E Main St Barstow , CA",34.894069,-117.004017
+165,1152 Lemoore Ave,CA,Lemoore,93245,166,"1152 Lemoore Ave Lemoore, CA",36.314489,-119.780462
+166,1791 W. Lacey Blvd,CA,Hanford,93230,167,"1791 W. Lacey Blvd Hanford, CA",36.327708,-119.675581
+167,1765 Simpson St,CA,Kingsburg,93631,168,"1765 Simpson St Kingsburg, CA",36.516577,-119.557681
+168,1517 Columbus St,CA,Bakersfield,93305,169,"1517 Columbus St Bakersfield, CA",35.397234,-118.974638
+169,15 S. Chester Ave,CA,Bakersfield,93304,170,"15 S. Chester Ave Bakersfield, CA",35.35325,-119.019226
+170,2901 Calloway Dr,CA,Bakersfield,93312,171,"2901 Calloway Dr Bakersfield, CA",35.387252,-119.110347
+171,3302 California Avenue,CA,Bakersfield,93304,172,"3302 California Avenue Bakersfield, CA",35.369001,-119.039899
+172,2915 Panama Ln,CA,Bakersfield,93313,173,"2915 Panama Ln Bakersfield, CA",35.295775,-119.036371
+173,1790 N Broadway,CA,Santa Maria,93454,174,"1790 N Broadway Santa Maria, CA",34.971881,-120.435102
+174,1259 E Grand Ave.,CA,Arroyo Grande,93420,175,"1259 E Grand Ave. Arroyo Grande, CA",35.120405,-120.603245
+175,812 N. H Street,CA,Lompoc,93436,176,"812 N. H Street Lompoc, CA",34.650838,-120.457415
+176,32690 Yucaipa Blvd,CA,Yucaipa,92399,177,"32690 Yucaipa Blvd Yucaipa, CA",34.034493,-117.091736
+177,1208 E. Park St.,CA,Hollister,95023,178,"1208 E. Park St. Hollister, CA",36.843502,-121.397178
+178,13322 Limonite Ave,CA,Eastvale,92880,179,"13322 Limonite Ave Eastvale, CA",33.975227,-117.574508
+179,6671 W Colfax Ave,CO,Lakewood,80214,180,"6671 W Colfax Ave Lakewood, CO",39.740598,-105.069949
+180,10855 South US Highway 285,CO,Conifer,80433,181,"10855 South US Highway 285 Conifer, CO",39.519353,-105.306045
+181,45 Union Blvd,CO,Lakewood,80228,182,"45 Union Blvd Lakewood, CO",39.715294,-105.13383
+182,7960 S Broadway,CO,Littleton,80122,183,"7960 S Broadway Littleton, CO",39.572213,-104.987892
+183,7541 W Bowles Ave,CO,Litleton ,80123,184,"7541 W Bowles Ave Litleton , CO",39.610202,-105.081293
+184,15431 E 104th Ave ,CO,Commerce City,80022,185,"15431 E 104th Ave  Commerce City, CO",39.885955,-104.807838
+185,41 west 84th Avenue,CO,Thornton,80260,186,"41 west 84th Avenue Thornton, CO",39.849357,-104.98817
+186,933 Main St,CO,Longmont,80501,187,"933 Main St Longmont, CO",40.175307,-105.102785
+187,4601 Peoria St,CO,Denver,80239,188,"4601 Peoria St Denver, CO",39.779984,-104.847834
+188,14650 E Colfax,CO,Aurora,80011,189,"14650 E Colfax Aurora, CO",39.739558,-104.817287
+189,4320 Austin Bluffs Pkwy,CO,Colorado Springs,80918,190,"4320 Austin Bluffs Pkwy Colorado Springs, CO",38.894269,-104.75175
+190,870 W Garden of the Gods Rd.,CO,Colorado Springs,80907,191,"870 W Garden of the Gods Rd. Colorado Springs, CO",38.897071,-104.84286
+191,11020 Cross Peak View,CO,Colorado Springs,80921,192,"11020 Cross Peak View Colorado Springs, CO",38.990852,-104.793572
+192,6405 Source Center Point,CO,Colorado Springs,80923,193,"6405 Source Center Point Colorado Springs, CO",38.925904,-104.721144
+193,7970 N Academy Blvd ,CO,Colorado Springs,80920,194,"7970 N Academy Blvd  Colorado Springs, CO",38.946951,-104.802754
+194,125 W 43rd St,CO,Loveland,80538,195,"125 W 43rd St Loveland, CO",40.436815,-105.07781
+195,2039 S Timberline Rd,CO,Fort Collins,80525,196,"2039 S Timberline Rd Fort Collins, CO",40.560464,-105.039692
+196,103 Kensington Dr,CO,Fort Collins,80525,197,"103 Kensington Dr Fort Collins, CO",40.524594,-105.077596
+197,2140 W Elizabeth Street,CO,Fort Collins,80521,198,"2140 W Elizabeth Street Fort Collins, CO",40.575219,-105.116751
+198,975 N Lincoln Ave,CO,Loveland,80537,199,"975 N Lincoln Ave Loveland, CO",40.401969,-105.073451
+199,1235 8th Ave,CO,Greeley,80631,200,"1235 8th Ave Greeley, CO",40.418628,-104.691265
+200,301 E. Colorado Ave.,CO,Colorado Springs,80903,201,"301 E. Colorado Ave. Colorado Springs, CO",38.831986,-104.819439
+201,1802 E. Platte Ave.,CO,Colorado Springs,80903,202,"1802 E. Platte Ave. Colorado Springs, CO",38.837623,-104.794114
+202,1440 N. Circle Dr.,CO,Colorado Springs,80909,203,"1440 N. Circle Dr. Colorado Springs, CO",38.853919,-104.776193
+203,624 S. 21st St.,CO,Colorado Springs,80904,204,"624 S. 21st St. Colorado Springs, CO",38.839507,-104.8594
+204,4420 Edison Ave,CO,Colorado Springs,80915,205,"4420 Edison Ave Colorado Springs, CO",38.840432,-104.745952
+205,901 Main St.,CO,Windsor,80550,206,"901 Main St. Windsor, CO",40.479578,-104.9115
+206,4704 24th St.,CO,Greeley,80634,207,"4704 24th St. Greeley, CO",40.399325,-104.756701
+207,16705 E Lliff Ave,CO,Aurora,80013,208,"16705 E Lliff Ave Aurora, CO",39.673776,-104.793437
+208,14505 E Arapahoe RD,CO,Aurora,80016,209,"14505 E Arapahoe RD Aurora, CO",39.595635,-104.820229
+209,270 W 136th,CO,Westminster,80234,210,"270 W 136th Westminster, CO",39.941857,-104.99262
+210,200 W 104th,CO,Northglenn,80234,211,"200 W 104th Northglenn, CO",39.884725,-104.990076
+211,10365 S. Parker Rd,CO,Parker,80134,212,"10365 S. Parker Rd Parker, CO",39.528735,-104.766971
+212,248 Metzler Dr,CO,Castle Rock,80108,213,"248 Metzler Dr Castle Rock, CO",39.409357,-104.86021
+213,321 N. Main St.,ID,Moscow,83843,214,"321 N. Main St. Moscow, ID",46.736882,-117.001799
+214,118 W. Hanley Ave.,ID,Coeur D'Alene,83815,215,"118 W. Hanley Ave. Coeur D'Alene, ID",47.729725,-116.787151
+215,1680 Northwest Blvd.,ID,Coeur D'Alene,83815,216,"1680 Northwest Blvd. Coeur D'Alene, ID",47.691005,-116.800191
+216,3782 East Mullan Ave.,ID,Post Falls,83854,217,"3782 East Mullan Ave. Post Falls, ID",47.71563,-116.897265
+217,143 Thain Rd.,ID,Lewiston,83501,218,"143 Thain Rd. Lewiston, ID",46.389295,-116.987959
+218,1617 Main St.,ID,Lewiston,83501,219,"1617 Main St. Lewiston, ID",46.417762,-117.009053
+219,1100 S 16th Street,ID,Payette,83661,220,"1100 S 16th Street Payette, ID",44.063558,-116.923538
+220,572 Pole Line Rd,ID,Twin Falls,83301,221,"572 Pole Line Rd Twin Falls, ID",42.591577,-114.467432
+221,326 Blue Lakes Blvd N,ID,Twin Falls,83301,222,"326 Blue Lakes Blvd N Twin Falls, ID",42.567608,-114.459871
+222,16040 Idaho Center Blvd.,ID,Nampa,83687,223,"16040 Idaho Center Blvd. Nampa, ID",43.606408,-116.512863
+223,624 12th Avenue Road,ID,Nampa,83686,224,"624 12th Avenue Road Nampa, ID",43.562567,-116.572643
+224,5103 Cleveland Blvd.,ID,Caldwell,83605,225,"5103 Cleveland Blvd. Caldwell, ID",43.633573,-116.644
+225,373 S. Caldwell Blvd.,ID,Nampa,83651,226,"373 S. Caldwell Blvd. Nampa, ID",43.591574,-116.583251
+226,807 Specht Ave.,ID,Caldwell,83607,227,"807 Specht Ave. Caldwell, ID",43.662251,-116.662614
+227,16377 N Marketplace Blvd,ID,Nampa,83651,228,"16377 N Marketplace Blvd Nampa, ID",43.61047,-116.59134
+228,5177 W. Chinden Blvd.,ID,Garden City,83714,229,"5177 W. Chinden Blvd. Garden City, ID",43.644239,-116.271481
+229,2272 S. Vista Ave.,ID,Boise,83705,230,"2272 S. Vista Ave. Boise, ID",43.581821,-116.213297
+230,2630 S. Broadway Ave.,ID,Boise,83706,231,"2630 S. Broadway Ave. Boise, ID",43.5782,-116.193283
+231,7401 W. Victory Rd.,ID,Boise,83709,232,"7401 W. Victory Rd. Boise, ID",43.575393,-116.274581
+232,1589 N. Wildwood Way,ID,Boise,83713,233,"1589 N. Wildwood Way Boise, ID",43.619181,-116.321006
+233,101 S. Orchard St.,ID,Boise,83705,234,"101 S. Orchard St. Boise, ID",43.603331,-116.243877
+234,1181 N. Milwaukee St.,ID,Boise,83704,235,"1181 N. Milwaukee St. Boise, ID",43.615397,-116.284655
+235,8649 W. Overland Rd.,ID,Boise,83709,236,"8649 W. Overland Rd. Boise, ID",43.589907,-116.289436
+236,1423 W State Street,ID,Boise,83702,237,"1423 W State Street Boise, ID",43.622537,-116.208697
+237,777 Main St Ste 110,ID,Boise,83702,238,"777 Main St Ste 110 Boise, ID",43.615199,-116.203539
+238,195 City View Drive,ID,Mountain Home,83647,239,"195 City View Drive Mountain Home, ID",43.13672,-115.696531
+239,2170 E. Overland Rd.,ID,Meridian,83642,240,"2170 E. Overland Rd. Meridian, ID",43.590581,-116.367554
+240,1701 W. Franklin Rd.,ID,Meridian,83642,241,"1701 W. Franklin Rd. Meridian, ID",43.604454,-116.414982
+241,1351 E. Fairview Ave.,ID,Meridian,83642,242,"1351 E. Fairview Ave. Meridian, ID",43.619105,-116.37754
+242,5072 N. Linder Rd.,ID,Meridian,83646,243,"5072 N. Linder Rd. Meridian, ID",43.650877,-116.413433
+243,37 e calderwood drive,ID,Meridian,83642,244,"37 e calderwood drive Meridian, ID",43.585769,-116.393196
+244,51 S Urban Gate Dr.,ID,Eagle ,83616,245,"51 S Urban Gate Dr. Eagle , ID",43.695291,-116.382864
+245,221 N. Woodruff Ave,ID,Idaho Falls,83401,246,"221 N. Woodruff Ave Idaho Falls, ID",43.497906,-111.999347
+246,830 E. 17th Street,ID,Idaho Falls,83404,247,"830 E. 17th Street Idaho Falls, ID",43.482049,-112.017286
+247,2703 E Sunnyside Rd,ID,Ammon,83406,248,"2703 E Sunnyside Rd Ammon, ID",43.467905,-111.977996
+248,1800 Prairie Crossing,KS,Kansas City,66109,249,"1800 Prairie Crossing Kansas City, KS",39.125334,-94.822948
+249,2121 Unser Blvd,NM,Rio Rancho,87124,250,"2121 Unser Blvd Rio Rancho, NM",35.223201,-106.696639
+250,1440 Rio Rancho Blvd,NM,Rancho,87124,251,"1440 Rio Rancho Blvd Rancho, NM",35.23733,-106.656414
+251,340 US 550,NM,Bernalillio,87004,252,"340 US 550 Bernalillio, NM",35.31854,-106.544491
+252,700 NW Coors Blvd,NM,Albuquerque,87121,253,"700 NW Coors Blvd Albuquerque, NM",35.0947,-106.708955
+253,1105 NE Juan Tabo Blvd,NM,Albuquerque,87112,254,"1105 NE Juan Tabo Blvd Albuquerque, NM",35.090535,-106.51556
+254,3550 Bataan Memorial E,NM,Las Cruces,88011,255,"3550 Bataan Memorial E Las Cruces, NM",32.364819,-106.748119
+255,2840 E Tropicana Avenue,NV,Las Vegas,89121,256,"2840 E Tropicana Avenue Las Vegas, NV",36.100269,-115.111995
+256,590 E windmill Ln,NV,Las Vegas,89123,257,"590 E windmill Ln Las Vegas, NV",36.042705,-115.15007
+257,251 N Stephanie Street,NV,Henderson,89074,258,"251 N Stephanie Street Henderson, NV",36.045163,-115.047234
+258,8806 S. Eastern Ave.,NV,Las Vegas,89123,259,"8806 S. Eastern Ave. Las Vegas, NV",36.029347,-115.118051
+259,1780 E Serene,NV,Las Vegas,89139,260,"1780 E Serene Las Vegas, NV",36.020802,-115.127913
+260,745 W Lake Mead Pkwy,NV,Las Vegas,89014,261,"745 W Lake Mead Pkwy Las Vegas, NV",36.034399,-115.006392
+261,326 S Decatur,NV,Las Vegas,89107,262,"326 S Decatur Las Vegas, NV",36.169247,-115.206349
+262,6894 N Hualapai Way,NV,Las Vegas,89149,263,"6894 N Hualapai Way Las Vegas, NV",36.28588,-115.314548
+263,4340 N Rancho Dr,NV,Las Vegas,89130,264,"4340 N Rancho Dr Las Vegas, NV",36.239095,-115.231113
+264,6651 W Charleston Blvd,NV,Las Vegas,89146,265,"6651 W Charleston Blvd Las Vegas, NV",36.158798,-115.238891
+265,4585 Blue Diamond Rd,NV,Las Vegas,89139,266,"4585 Blue Diamond Rd Las Vegas, NV",36.034509,-115.202594
+266,"6410 S Rainbow Blvd Las Vegas, NV 89113",NV,Las Vegas,89113,267,"6410 S Rainbow Blvd Las Vegas, NV 89113 Las Vegas, NV",36.07224,-115.241834
+267,5211 S Decatur Blvd,NV,Las Vegas,89118,268,"5211 S Decatur Blvd Las Vegas, NV",36.095092,-115.20846
+268,4787 S Fort Apache Rd,NV,Las Vegas,89147,269,"4787 S Fort Apache Rd Las Vegas, NV",36.102002,-115.29791
+269,3265 S Rainbow Blvd ,NV,Las Vegas,89146,270,"3265 S Rainbow Blvd  Las Vegas, NV",36.130163,-115.243441
+270,8295 W. Warm Springs Rd,NV,Las Vegas,89113,271,"8295 W. Warm Springs Rd Las Vegas, NV",36.055491,-115.274183
+271,2245 N Las Vegas Blvd,NV,North Las Vegas,89030,272,"2245 N Las Vegas Blvd North Las Vegas, NV",36.20093,-115.122823
+272,3121 W sahara Ave,NV,Las Vegas,89102,273,"3121 W sahara Ave Las Vegas, NV",36.144054,-115.184229
+273,2670 W Centennial Pkwy,NV,Las Vegas,89084,274,"2670 W Centennial Pkwy Las Vegas, NV",36.276883,-115.178215
+274,1170 W Craig Rd,NV,Las Vegas,89031,275,"1170 W Craig Rd Las Vegas, NV",36.239516,-115.15813
+275,4555 S Virginia St,NV,Reno,89502,276,"4555 S Virginia St Reno, NV",39.484319,-119.792999
+276,7250 S Virginia St,NV,Reno,89511,277,"7250 S Virginia St Reno, NV",39.461567,-119.781308
+277,740 South Meadows Pkwy.,NV,Reno,89521,278,"740 South Meadows Pkwy. Reno, NV",39.436185,-119.757987
+278,1231 S Carson St.,NV,Carson City,89701,279,"1231 S Carson St. Carson City, NV",39.156382,-119.76675
+279,1675 E. William St.,NV,Carson City,89701,280,"1675 E. William St. Carson City, NV",39.172243,-119.748704
+280,211 W Appion Way,NV,Carson City,89703,281,"211 W Appion Way Carson City, NV",39.124578,-119.772235
+281,5916 SE 15th st,OK,Midwest City,73110,282,"5916 SE 15th st Midwest City, OK",35.449319,-97.418466
+282,1230 W Main St,OK,Norman,97526,283,"1230 W Main St Norman, OK",35.218235,-97.459725
+283,300 S MacArthur,OK,Oklahoma City,73128,284,"300 S MacArthur Oklahoma City, OK",35.463732,-97.618342
+284,1020 Garth Brooks,OK,Yukon,73099,285,"1020 Garth Brooks Yukon, OK",35.495908,-97.760307
+285,633 N. Perkins Rd,OK,Stillwater,74075,286,"633 N. Perkins Rd Stillwater, OK",36.123514,-97.051494
+286,701 E. Kenosha St,OK,Broken Arrow,74012,287,"701 E. Kenosha St Broken Arrow, OK",36.060953,-95.782053
+287,4725 E 51st St,OK,Tulsa,74135,288,"4725 E 51st St Tulsa, OK",36.090214,-95.922906
+288,305 S. Elm St.,OK,Jenks,74037,289,"305 S. Elm St. Jenks, OK",36.020053,-95.975527
+289,5805 S. 6th St.,OR,Klamath Falls,97603,290,"5805 S. 6th St. Klamath Falls, OR",42.206735,-121.717471
+290,201 6th St.,OR,Klamath Falls,97603,291,"201 6th St. Klamath Falls, OR",42.224231,-121.781328
+291,3041 S. 6th St.,OR,Klamath Falls,97603,292,"3041 S. 6th St. Klamath Falls, OR",42.209013,-121.751424
+292,3255 Washburn Way.,OR,Klamath Falls,97603,293,"3255 Washburn Way. Klamath Falls, OR",42.198293,-121.756409
+293,2568 Campus Dr.,OR,Klamath Falls,97601,294,"2568 Campus Dr. Klamath Falls, OR",42.249811,-121.788047
+294,2091 S.E. Tualatin Valley Hwy.,OR,Hillsboro,97123,295,"2091 S.E. Tualatin Valley Hwy. Hillsboro, OR",45.507199,-122.961605
+295,1320 S.W. Oak St.,OR,Hillsboro,97123,296,"1320 S.W. Oak St. Hillsboro, OR",45.519072,-123.004336
+296,1420 E. Baseline St.,OR,Cornelius,97133,297,"1420 E. Baseline St. Cornelius, OR",45.520234,-123.054433
+297,7380 Imbrie Drive,OR,Hillsboro,97124,298,"7380 Imbrie Drive Hillsboro, OR",45.549993,-122.904479
+298,2991 SE 73rd Ave,OR,Hillsboro,97123,299,"2991 SE 73rd Ave Hillsboro, OR",45.498335,-122.908216
+299,164 S. Columbia Street,OR,Milton-Freewater,97862,300,"164 S. Columbia Street Milton-Freewater, OR",45.933867,-118.387961
+300,2115 Franklin Blvd.,OR,Eugene,97403,301,"2115 Franklin Blvd. Eugene, OR",44.045014,-123.061175
+301,311 E. 11th Ave.,OR,Eugene,97401,302,"311 E. 11th Ave. Eugene, OR",44.047917,-123.087848
+302,1701 W. 11th Ave.,OR,Eugene,97402,303,"1701 W. 11th Ave. Eugene, OR",44.047921,-123.118261
+303,110 W. 7th Ave.,OR,Eugene,97401,304,"110 W. 7th Ave. Eugene, OR",44.051928,-123.094703
+304,2700 River Rd.,OR,Eugene,97404,305,"2700 River Rd. Eugene, OR",44.103645,-123.131819
+305,2145 W. 7th Ave.,OR,Eugene,97402,306,"2145 W. 7th Ave. Eugene, OR",44.052428,-123.125371
+306,1633 Coburg Rd.,OR,Eugene,97401,307,"1633 Coburg Rd. Eugene, OR",44.080541,-123.066959
+307,198 S.W. 6th St.,OR,Grants Pass,97526,308,"198 S.W. 6th St. Grants Pass, OR",42.439324,-123.32711
+308,1390 Williams Hwy.,OR,Grants Pass,97527,309,"1390 Williams Hwy. Grants Pass, OR",42.423936,-123.332157
+309,332 N.W. 6th St.,OR,Grants Pass,97526,310,"332 N.W. 6th St. Grants Pass, OR",42.441408,-123.326053
+310,251 N.E. Agness,OR,Grants Pass,97526,311,"251 N.E. Agness Grants Pass, OR",42.436182,-123.297591
+311,"903 NE D St, Grants Pass",OR,Grants Pass,97526,312,"903 NE D St, Grants Pass Grants Pass, OR",42.43831,-123.311907
+312,1698 N.E. 7th St.,OR,Grants Pass,97526,313,"1698 N.E. 7th St. Grants Pass, OR",42.457701,-123.321061
+313,638 Redwood Hwy.,OR,Grants Pass,97527,314,"638 Redwood Hwy. Grants Pass, OR",42.423876,-123.339492
+314,1620 Allen Creek Rd.,OR,Grants Pass,97527,315,"1620 Allen Creek Rd. Grants Pass, OR",42.420312,-123.354377
+315,3500 Merlin Rd.,OR,Grants Pass,97526,316,"3500 Merlin Rd. Grants Pass, OR",42.496894,-123.369117
+316,822 S.W. Coast Hwy.,OR,Newport,97366,317,"822 S.W. Coast Hwy. Newport, OR",44.629259,-124.061747
+317,711 NW Hwy 101,OR,Lincoln City,97367,318,"711 NW Hwy 101 Lincoln City, OR",44.971291,-124.014743
+318,1769 20th St.,OR,Florence,97439,319,"1769 20th St. Florence, OR",43.984436,-124.101526
+319,2406 Pacific Ave.,OR,Forest Grove,97116,320,"2406 Pacific Ave. Forest Grove, OR",45.51917,-123.104177
+320,2840 Santiam Hwy. S.E.,OR,Albany,97322,321,"2840 Santiam Hwy. S.E. Albany, OR",44.630826,-123.070091
+321,1479 S. Main St.,OR,Lebanon,97355,322,"1479 S. Main St. Lebanon, OR",44.532353,-122.906818
+322,1141 9th St.,OR,Albany,97322,323,"1141 9th St. Albany, OR",44.848552,-123.196499
+323,1096 Commercial St. S.E.,OR,Salem,97302,324,"1096 Commercial St. S.E. Salem, OR",44.930399,-123.043726
+324,3794 Commercial St. S.E.,OR,Salem,97302,325,"3794 Commercial St. S.E. Salem, OR",44.901437,-123.039328
+325,1895 Pacific Blvd. S.W.,OR,Albany,97322,326,"1895 Pacific Blvd. S.W. Albany, OR",44.622168,-123.110128
+326,1150 Ford Street SE,OR,Salem,97302,327,"1150 Ford Street SE Salem, OR",44.92492,-123.016536
+327,540 Main St.,OR,Sweet Home,97386,328,"540 Main St. Sweet Home, OR",44.398165,-122.737208
+328,810 Lancaster Dr. S.E.,OR,Salem,97317,329,"810 Lancaster Dr. S.E. Salem, OR",44.91825,-122.980578
+329,500 Market Street,OR,Lebanon,97355,330,"500 Market Street Lebanon, OR",44.518437,-122.900926
+330,1330 SE Barnes Ave,OR,Salem,97306,331,"1330 SE Barnes Ave Salem, OR",44.880822,-123.028292
+331,4915 N. River Rd.,OR,Keizer,97303,332,"4915 N. River Rd. Keizer, OR",44.995072,-123.026984
+332,1102 Lancaster Dr. N.E.,OR,Salem,97301,333,"1102 Lancaster Dr. N.E. Salem, OR",44.943577,-122.982996
+333,3179 N.E. Market St.,OR,Salem,97305,334,"3179 N.E. Market St. Salem, OR",44.950505,-122.996768
+334,525 NW Wallace,OR,Salem,97304,335,"525 NW Wallace Salem, OR",44.946387,-123.050069
+335,4612 Portland Rd.,OR,Salem,97305,336,"4612 Portland Rd. Salem, OR",44.987255,-122.989477
+336,2822 Broadway Street,OR,Salem,97303,337,"2822 Broadway Street Salem, OR",44.968414,-123.02802
+337,180 East Ln.,OR,Ontario,97914,338,"180 East Ln. Ontario, OR",44.023731,-116.93935
+338,1487 SW 4th Ave.,OR,Ontario,97914,339,"1487 SW 4th Ave. Ontario, OR",44.025133,-116.986453
+339,204 Highway 99W,OR,Newberg,97132,340,"204 Highway 99W Newberg, OR",45.244596,-123.116138
+340,701 Deborah Rd.,OR,Newberg,97132,341,"701 Deborah Rd. Newberg, OR",45.304331,-122.950016
+341,11744 S.W. Pacific Hwy.,OR,Tigard,97223,342,"11744 S.W. Pacific Hwy. Tigard, OR",45.435442,-122.759414
+342,16482 S.W. Langer Dr.,OR,Sherwood,97140,343,"16482 S.W. Langer Dr. Sherwood, OR",45.36617,-122.84633
+343,16400 SW Barrows Rd.,OR,Beaverton,97007,344,"16400 SW Barrows Rd. Beaverton, OR",45.427286,-122.846151
+344,13765 SW Pacific Hwy,OR,Tigard,97223,345,"13765 SW Pacific Hwy Tigard, OR",45.420415,-122.786397
+345,13640 S.E. Division St.,OR,Portland,97236,346,"13640 S.E. Division St. Portland, OR",45.503876,-122.522908
+346,17404 S.E. Division St.,OR,Portland,97236,347,"17404 S.E. Division St. Portland, OR",45.504437,-122.484238
+347,328 N.W. Burnside,OR,Gresham,97030,348,"328 N.W. Burnside Gresham, OR",45.5092,-122.434114
+348,1239 NE Kane Drive,OR,Gresham,97030,349,"1239 NE Kane Drive Gresham, OR",45.505661,-122.400278
+349,16261 Hwy. 101,OR,Brookings,97415,350,"16261 Hwy. 101 Brookings, OR",42.049934,-124.257074
+350,747 Chetco Ave.,OR,Brookings,97415,351,"747 Chetco Ave. Brookings, OR",42.052765,-124.285667
+351,1342 W. 6th St.,OR,The Dalles,97058,352,"1342 W. 6th St. The Dalles, OR",45.607492,-121.202565
+352,1629 12th St.,OR,Hood River,97031,353,"1629 12th St. Hood River, OR",45.69716,-121.523206
+353,515 S.E. Jefferson,OR,Dallas,97338,354,"515 S.E. Jefferson Dallas, OR",44.924636,-123.315794
+354,165 N. Pacific Ave.,OR,Monmouth,97361,355,"165 N. Pacific Ave. Monmouth, OR",44.849206,-123.229035
+355,2003 Q Ave.,OR,LaGrande,97850,356,"2003 Q Ave. LaGrande, OR",45.32782,-118.081068
+356,660 N. First St.,OR,Hermiston,97838,357,"660 N. First St. Hermiston, OR",45.845617,-119.289901
+357,205 SW 12th St.,OR,Pendleton,97801,358,"205 SW 12th St. Pendleton, OR",45.668749,-118.79875
+358,425 NW Harrison Blvd.,OR,Corvallis,97330,359,"425 NW Harrison Blvd. Corvallis, OR",44.567878,-123.260592
+359,1855 SE 3rd St.,OR,Corvallis,97330,360,"1855 SE 3rd St. Corvallis, OR",44.54732,-123.26531
+360,1765 NW 9th St.,OR,Corvallis,97330,361,"1765 NW 9th St. Corvallis, OR",44.584943,-123.256728
+361,661 SW 26th St.,OR,Corvallis,97331,362,"661 SW 26th St. Corvallis, OR",44.561586,-123.279001
+362,1500 SW 53rd,OR,Corvallis,97333,363,"1500 SW 53rd Corvallis, OR",44.550517,-123.312318
+363,115 Myrtle St.,OR,Sutherlin,97479,364,"115 Myrtle St. Sutherlin, OR",43.386561,-123.336076
+364,1002 Main St.,OR,Oregon City,97045,365,"1002 Main St. Oregon City, OR",45.359328,-122.604971
+365,19131 Beavercreek Rd.,OR,Oregon City,97045,366,"19131 Beavercreek Rd. Oregon City, OR",45.32983,-122.57057
+366,1115 SW 1st Ave.,OR,Canby,97013,367,"1115 SW 1st Ave. Canby, OR",45.255745,-122.705342
+367,107 Molalla Avenue,OR,Oregon City,97045,368,"107 Molalla Avenue Oregon City, OR",45.351516,-122.596488
+368,39625 Proctor Blvd.,OR,Sandy,97055,369,"39625 Proctor Blvd. Sandy, OR",45.397655,-122.255982
+369,1865 Blankenship Road,OR,West Linn,97068,370,"1865 Blankenship Road West Linn, OR",45.349414,-122.65325
+370,2274 Columbia Blvd.,OR,St. Helens,97051,371,"2274 Columbia Blvd. St. Helens, OR",45.859269,-122.821967
+371,33503 S.W. Chinook Plaza,OR,Scappoose,97056,372,"33503 S.W. Chinook Plaza Scappoose, OR",45.752016,-122.877854
+372,4721 N.E. Columbia Blvd.,OR,Portland,97204,373,"4721 N.E. Columbia Blvd. Portland, OR",45.57105,-122.613758
+373,2110 NW 23rd Ave,OR,Portland,97210,374,"2110 NW 23rd Ave Portland, OR",45.537882,-122.698685
+374,2057 W. Burnside,OR,Portland,97209,375,"2057 W. Burnside Portland, OR",45.523343,-122.693601
+375,8169 NE Air Cargo Rd.,OR,Portland,97218,376,"8169 NE Air Cargo Rd. Portland, OR",45.579864,-122.575114
+376,468 W. Marine Dr.,OR,Astoria,97103,377,"468 W. Marine Dr. Astoria, OR",46.185639,-123.857668
+377,2271 N Roosevelt Dr.,OR,Seaside,97138,378,"2271 N Roosevelt Dr. Seaside, OR",46.008382,-123.914214
+378,2150 N Main,OR,Tillamook,97141,379,"2150 N Main Tillamook, OR",45.471861,-123.84473
+379,770 N.W. Garden Valley Blvd.,OR,Roseburg,97470,380,"770 N.W. Garden Valley Blvd. Roseburg, OR",43.228307,-123.36424
+380,2460 Stewart Pkwy.,OR,Roseburg,97470,381,"2460 Stewart Pkwy. Roseburg, OR",43.238861,-123.370093
+381,1731 N.E. Stephens St.,OR,Roseburg,97470,382,"1731 N.E. Stephens St. Roseburg, OR",43.230878,-123.350244
+382,2082 Diamond Lake Blvd.,OR,Roseburg,97470,383,"2082 Diamond Lake Blvd. Roseburg, OR",43.213461,-123.332344
+383,345 W. Harvard,OR,Roseburg,97470,384,"345 W. Harvard Roseburg, OR",43.21254,-123.352505
+384,4635 Carnes Rd,OR,Roseburg,97471,385,"4635 Carnes Rd Roseburg, OR",43.147202,-123.380674
+385,8675 SW Old Tualatin Sherwood Hwy.,OR,Tualatin,97062,386,"8675 SW Old Tualatin Sherwood Hwy. Tualatin, OR",45.380938,-122.766985
+386,6710 S.E. Foster,OR,Portland,97206,387,"6710 S.E. Foster Portland, OR",45.488259,-122.593878
+387,9721 SE 82nd Ave,OR,Happy Valley,97086,388,"9721 SE 82nd Ave Happy Valley, OR",45.45203,-122.579435
+388,4455 SE 26th Ave,OR,Portland,97202,389,"4455 SE 26th Ave Portland, OR",45.490449,-122.63995
+389,29744 SW Town Center Loop,OR,W Wilsonville,97070,390,"29744 SW Town Center Loop W Wilsonville, OR",45.304671,-122.765138
+390,1143 N.E. 3rd St.,OR,Bend,97701,391,"1143 N.E. 3rd St. Bend, OR",44.061719,-121.302764
+391,2155 US Hwy 20,OR,Bend,97701,392,"2155 US Hwy 20 Bend, OR",44.071196,-121.297669
+392,603 S.E. 3rd St.,OR,Bend,97701,393,"603 S.E. 3rd St. Bend, OR",44.044046,-121.302875
+393,120 S.W. Century Dr.,OR,Bend,97701,394,"120 S.W. Century Dr. Bend, OR",44.049866,-121.331514
+394,62995 N Hwy 97,OR,Bend,97701,395,"62995 N Hwy 97 Bend, OR",44.087435,-121.306841
+395,61223 S. Hwy 97,OR,Bend,97701,396,"61223 S. Hwy 97 Bend, OR",44.02338,-121.315807
+396,120 N.E. 5th St.,OR,McMinnville,97128,397,"120 N.E. 5th St. McMinnville, OR",45.211152,-123.198929
+397,1365 N.E. Highway 99 W.,OR,McMinnville,97128,398,"1365 N.E. Highway 99 W. McMinnville, OR",45.226201,-123.184826
+398,1641 SW Baker St.,OR,McMinnville,97128,399,"1641 SW Baker St. McMinnville, OR",45.196821,-123.207852
+399,1503 Mohawk Blvd.,OR,Springfield,97477,400,"1503 Mohawk Blvd. Springfield, OR",44.05784,-123.000387
+400,4233 E. Main St.,OR,Springfield,97478,401,"4233 E. Main St. Springfield, OR",44.045603,-122.962707
+401,1499 Hwy. 99 North,OR,Eugene,97402,402,"1499 Hwy. 99 North Eugene, OR",44.076498,-123.148402
+402,222 S. 5th St.,OR,Springfield,97477,403,"222 S. 5th St. Springfield, OR",44.045475,-123.019877
+403,5850 Main St.,OR,Springfield,97478,404,"5850 Main St. Springfield, OR",44.045902,-122.925576
+404,500 Ivy St.,OR,Junction City,97448,405,"500 Ivy St. Junction City, OR",44.218928,-123.204438
+405,3256 Gateway st.,OR,Springfield,97477,406,"3256 Gateway st. Springfield, OR",44.080779,-123.042392
+406,1545 Gateway Blvd.,OR,Cottage Grove,97424,407,"1545 Gateway Blvd. Cottage Grove, OR",43.804188,-123.045802
+407,2338 S. Pacific Hwy,OR,Medford,97501,408,"2338 S. Pacific Hwy Medford, OR",42.303831,-122.852304
+408,614 E. Main,OR,Medford,97504,409,"614 E. Main Medford, OR",42.327634,-122.866709
+409,1005 Summit Ave.,OR,Medford,97501,410,"1005 Summit Ave. Medford, OR",42.335015,-122.887248
+410,816 S. Riverside Ave.,OR,Medford,97501,411,"816 S. Riverside Ave. Medford, OR",42.319316,-122.865402
+411,1910 Hwy. 99,OR,Ashland,97520,412,"1910 Hwy. 99 Ashland, OR",42.218856,-122.736489
+412,1767 N. Riverside Ave.,OR,Medford,97501,413,"1767 N. Riverside Ave. Medford, OR",42.344357,-122.880266
+413,8380 Crater Lake Hwy.,OR,White City,97503,414,"8380 Crater Lake Hwy. White City, OR",42.438342,-122.83754
+414,2809 W Main ST.,OR,Medford,97501,415,"2809 W Main ST. Medford, OR",42.323602,-122.909303
+415,1065 E. Pine St.,OR,Central Point,97502,416,"1065 E. Pine St. Central Point, OR",42.37867,-122.908739
+416,3811 Crater Lake Hwy.,OR,Medford,97504,417,"3811 Crater Lake Hwy. Medford, OR",42.373252,-122.856632
+417,832 S. Front St.,OR,Central Point,97502,418,"832 S. Front St. Central Point, OR",42.366623,-122.911357
+418,2832 Crater Lake Hwy,OR,Medford,97504,419,"2832 Crater Lake Hwy Medford, OR",42.358342,-122.86234
+419,1227 Stewart Rd.,OR,Medford,97501,420,"1227 Stewart Rd. Medford, OR",42.457137,-123.439493
+420,724 Main St.,OR,Phoenix,97535,421,"724 Main St. Phoenix, OR",42.279403,-122.820984
+421,1644 Ashland St.,OR,Ashland,97520,422,"1644 Ashland St. Ashland, OR",42.184169,-122.686703
+422,2310 Crater Lake Ave.,OR,Medford,97504,423,"2310 Crater Lake Ave. Medford, OR",42.351262,-122.855367
+423,4990 Table Rock Rd.,OR,Central Point,97502,424,"4990 Table Rock Rd. Central Point, OR",42.389054,-122.884871
+424,7251 Crater Lake Hwy.,OR,White City,97503,425,"7251 Crater Lake Hwy. White City, OR",42.421199,-122.853446
+425,800 Biddle Rd.,OR,Medford,97504,426,"800 Biddle Rd. Medford, OR",42.337784,-122.871127
+426,8940 S.W. Hall Blvd.,OR,Beaverton,97223,427,"8940 S.W. Hall Blvd. Beaverton, OR",45.455481,-122.779181
+427,5482 Beaverton Hillsdale Hwy,OR,Beaverton,97221,428,"5482 Beaverton Hillsdale Hwy Beaverton, OR",45.486874,-122.733312
+428,6270 SW 185th Avenue,OR,Beaverton,97007,429,"6270 SW 185th Avenue Beaverton, OR",45.474518,-122.867045
+429,1775 Mt. Hood Ave.,OR,Woodburn,97071,430,"1775 Mt. Hood Ave. Woodburn, OR",45.151595,-122.831604
+430,2720 Newberg Hwy.,OR,Woodburn,97071,431,"2720 Newberg Hwy. Woodburn, OR",45.150688,-122.875235
+431,705 McClaine Street,OR,Silverton,97381,432,"705 McClaine Street Silverton, OR",45.005761,-122.793126
+432,940 Virginia St.,OR,North Bend,97459,433,"940 Virginia St. North Bend, OR",43.406773,-124.226732
+433,149 S. 7th St.,OR,Coos Bay,97420,434,"149 S. 7th St. Coos Bay, OR",43.367492,-124.219671
+434,843 S. 1st St.,OR,Coos Bay,97420,435,"843 S. 1st St. Coos Bay, OR",43.360615,-124.212476
+435,1501 S.W. Highland,OR,Redmond,97756,436,"1501 S.W. Highland Redmond, OR",44.269865,-121.185333
+436,650 N.W. Jackpine Ave.,OR,Redmond,97756,437,"650 N.W. Jackpine Ave. Redmond, OR",44.285419,-121.174465
+437,482 E. Hood Ave.,OR,Sisters,97759,438,"482 E. Hood Ave. Sisters, OR",44.290683,-121.545425
+438,1990 S Hwy 97,OR,Redmond,97756,439,"1990 S Hwy 97 Redmond, OR",44.257771,-121.179871
+439,16222 S.E. Stark,OR,Gresham,97233,440,"16222 S.E. Stark Gresham, OR",45.518729,-122.495972
+440,18710 S.E. Stark,OR,Gresham,97233,441,"18710 S.E. Stark Gresham, OR",45.518842,-122.470331
+441,11529 Glenn Widing Dr.,OR,Portland,97220,442,"11529 Glenn Widing Dr. Portland, OR",45.570285,-122.546237
+442,430 NE Lloyd,OR,Portland,97232,443,"430 NE Lloyd Portland, OR",45.526382,-122.660951
+443,115 N. Redwood Hwy.,OR,Cave Junction,97523,444,"115 N. Redwood Hwy. Cave Junction, OR",42.168014,-123.645929
+444,1305 Nashville Pike,TN,Gallatin,37066,445,"1305 Nashville Pike Gallatin, TN",36.366847,-86.487898
+445,540 Enon Springs Rd E,TN,Smyrna,37167,446,"540 Enon Springs Rd E Smyrna, TN",35.973423,-86.496634
+446,1401 N Custer Rd,TX,McKinney,75071,447,"1401 N Custer Rd McKinney, TX",33.213991,-96.734008
+447,603 W Princeton Dr,TX,Princeton,75407,448,"603 W Princeton Dr Princeton, TX",33.174141,-96.499072
+448,12065 WELLBORN RD,TX,College Station,77845,449,"12065 WELLBORN RD College Station, TX",30.577579,-96.316914
+449,4009 State Hwy 6 South,TX,College Station,77845,450,"4009 State Hwy 6 South College Station, TX",30.583326,-96.282518
+450,2341 Boonville Rd,TX,Bryan,77808,451,"2341 Boonville Rd Bryan, TX",30.67297,-96.334577
+451,2424 Texas Ave.,TX,College Station,77840,452,"2424 Texas Ave. College Station, TX",30.612632,-96.315975
+452,7727 Paseo Del Norte Blvd,TX,El Paso,79912,453,"7727 Paseo Del Norte Blvd El Paso, TX",31.884474,-106.574349
+453,8605 Davis Blvd,TX,North Richland Hills,76182,454,"8605 Davis Blvd North Richland Hills, TX",32.911127,-97.188328
+454,720 W Spring Creek Pkwy,TX,Plano,75023,455,"720 W Spring Creek Pkwy Plano, TX",33.056023,-96.707623
+455,2317 W. Berry St,TX,Fort Worth,76110,456,"2317 W. Berry St Fort Worth, TX",32.705765,-97.352038
+456,3007 Altamesa Blvd,TX,South Fort Worth,76133,457,"3007 Altamesa Blvd South Fort Worth, TX",32.648155,-97.361937
+457,5328 Sycamore School Rd,TX,Fort Worth,76123,458,"5328 Sycamore School Rd Fort Worth, TX",32.630585,-97.410893
+458,90 Chris Kelley Blvd,TX,Hutto,78634,459,"90 Chris Kelley Blvd Hutto, TX",30.538907,-97.563189
+459,3589 N IH 35,TX,Round Rock,78664,460,"3589 N IH 35 Round Rock, TX",30.69666,-97.654663
+460,1700 E Palm Valley Blvd #850,TX,Round Rock,78664,461,"1700 E Palm Valley Blvd Round Rock, TX",30.524305,-97.634285
+461,1109 W Stan Schlueter Loop,TX,Killeen,76549,462,"1109 W Stan Schlueter Loop Killeen, TX",31.079144,-97.760478
+462,901 S 6th St,TX,Waco,76706,463,"901 S 6th St Waco, TX",31.549239,-97.125162
+463,201 N General Bruce Drive,TX,Temple,76504,464,"201 N General Bruce Drive Temple, TX",31.104163,-97.357968
+464,6520 W Adams Ave.,TX,Temple,76502,465,"6520 W Adams Ave. Temple, TX",31.11675,-97.411478
+465,2806 Clear Creek Rd,TX,Killeen,76549,466,"2806 Clear Creek Rd Killeen, TX",31.114175,-97.799141
+466,12221 Eastlake Blvd,TX,El Paso,79928,467,"12221 Eastlake Blvd El Paso, TX",31.687683,-106.265183
+467,1815 E Parmer Ln,TX,Austin,78754,468,"1815 E Parmer Ln Austin, TX",30.38528,-97.646895
+468,5923 19th St,TX,Lubbock,79407,469,"5923 19th St Lubbock, TX",33.577511,-101.946283
+469,5212 Slide Rd,TX,Lubbock,79414,470,"5212 Slide Rd Lubbock, TX",33.546204,-101.923044
+470,8231 University Ave,TX,Lubbock,79423,471,"8231 University Ave Lubbock, TX",33.518633,-101.870334
+471,11201 Quaker Ave,TX,Lubbock ,79424,472,"11201 Quaker Ave Lubbock , TX",33.492743,-101.904841
+472,714 N Industrial Blvd.,TX,Euless,76039,473,"714 N Industrial Blvd. Euless, TX",32.853138,-97.099911
+473,5205 Rufe Snow Dr,TX,North Richland Hills,76180,474,"5205 Rufe Snow Dr North Richland Hills, TX",32.844026,-97.239232
+474,8617 Spring Cypress Rd,TX,Spring,77379,475,"8617 Spring Cypress Rd Spring, TX",30.035431,-95.553282
+475,6914 Louetta Rd,TX,Spring,77379,476,"6914 Louetta Rd Spring, TX",30.023813,-95.519307
+476,19366 Interstate 45,TX,Spring,77373,477,"19366 Interstate 45 Spring, TX",30.048529,-95.429959
+477,2309 W Park Row Dr,TX,Pantego,76013,478,"2309 W Park Row Dr Pantego, TX",32.721925,-97.146178
+478,3501 Locke Ave,TX,Fort Worth,76107,479,"3501 Locke Ave Fort Worth, TX",32.731603,-97.369288
+479,8614 Potranco Rd.,TX,San Antonio,78251,480,"8614 Potranco Rd. San Antonio, TX",29.448329,-98.649858
+480,6024 West Adams Avenue,TX,Castle Hills ,78213,481,"6024 West Adams Avenue Castle Hills , TX",29.516212,-98.52582
+481,5398 Walzem Rd,TX,San Antonio,78218,482,"5398 Walzem Rd San Antonio, TX",29.509975,-98.384581
+482,4527 Rittiman Rd,TX,San Antonio,78218,483,"4527 Rittiman Rd San Antonio, TX",29.484434,-98.404647
+483,5258 FM 2920,TX,Spring,77388,484,"5258 FM 2920 Spring, TX",30.074116,-95.499206
+484,22719 Morton Ranch Rd,TX,Katy,77449,485,"22719 Morton Ranch Rd Katy, TX",29.817005,-95.765846
+485,5411 S Coulter St,TX,Amarillo,79119,486,"5411 S Coulter St Amarillo, TX",35.15051,-101.920053
+486,1000 Kitty Hawk Rd,TX,Universal City,78148,487,"1000 Kitty Hawk Rd Universal City, TX",29.545989,-98.316419
+487,250 W Parrish Ln,UT,Centerville,84014,488,"250 W Parrish Ln Centerville, UT",40.921864,-111.883181
+488,3843 W 7800 S Jordan Landing,UT,West Jordan,84088,489,"3843 W 7800 S Jordan Landing West Jordan, UT",40.623067,-111.980483
+489,3279 West 3500 South,UT,West Valley City,84119,490,"3279 West 3500 South West Valley City, UT",40.696308,-111.969595
+490,3883 W 5400 S,UT,Taylorsville,84604,491,"3883 W 5400 S Taylorsville, UT",40.652778,-111.983021
+491,7856 South 700 East Sandy,UT,East Sandy,84070,492,"7856 South 700 East Sandy East Sandy, UT",40.608576,-111.872898
+492,5546 S 900 E,UT,Murray,84107,493,"5546 S 900 E Murray, UT",40.650473,-111.866345
+493,267 E 12300 S,UT,Draper,84020,494,"267 E 12300 S Draper, UT",40.527235,-111.882699
+494,9401 700 E,UT,Sandy,84070,495,"9401 700 E Sandy, UT",40.580303,-111.871853
+495,855 N Daybreak Dr,UT,St. George,84770,496,"855 N Daybreak Dr St. George, UT",37.122667,-113.627392
+496,1382 S. River Rd.,UT,ST. George,84790,497,"1382 S. River Rd. ST. George, UT",37.085524,-113.556243
+497,1310 N University Avenue,UT,Provo,84604,498,"1310 N University Avenue Provo, UT",40.251622,-111.658088
+498,442 S Pleasant Grove Blvd,UT,Pleasant Grove,84062,499,"442 S Pleasant Grove Blvd Pleasant Grove, UT",40.356238,-111.763268
+499,1231 S 300 W,UT,Heber City,84032,500,"1231 S 300 W Heber City, UT",40.491803,-111.418468
+500,4177 Riverdale Road,UT,Riverdale,84405,501,"4177 Riverdale Road Riverdale, UT",41.18742,-111.985609
+501,499 N Main Street,UT,Layton,84041,502,"499 N Main Street Layton, UT",41.065479,-111.975032
+502,316 12th St.,UT,Ogden ,84404,503,"316 12th St. Ogden , UT",41.244377,-111.974136
+503,910 N Main St,UT,Logan ,84321,504,"910 N Main St Logan , UT",41.748334,-111.834052
+504,2202 Broadway,WA,Everett,98201,505,"2202 Broadway Everett, WA",47.988188,-122.201588
+505,735 SW Hardie Ave NW,WA,Renton,98057,506,"735 SW Hardie Ave NW Renton, WA",47.472841,-122.218166
+506,6520 W. Nob Hill Rd.,WA,Yakima,98908,507,"6520 W. Nob Hill Rd. Yakima, WA",46.585313,-120.595728
+507,2105 S 1st St,WA,Yakima,98903,508,"2105 S 1st St Yakima, WA",46.573464,-120.488858
+508,305 N 1st St,WA,Yakima,98901,509,"305 N 1st St Yakima, WA",46.657189,-120.530459
+509,731 N. Columbia Center Blvd.,WA,Kennewick,99336,510,"731 N. Columbia Center Blvd. Kennewick, WA",46.216713,-119.226365
+510,3 W. Columbia Dr.,WA,Kennewick,99336,511,"3 W. Columbia Dr. Kennewick, WA",46.211747,-119.11733
+511,3918 Clearwater Avenue,WA,Kennewick,99336,512,"3918 Clearwater Avenue Kennewick, WA",46.212627,-119.173115
+512,2604 S Tweedt Ct,WA,kennewick,99338,513,"2604 S Tweedt Ct kennewick, WA",46.18509,-119.178565
+513,27525 Pacific Hwy S,WA,Federal Way,98003,514,"27525 Pacific Hwy S Federal Way, WA",47.35449,-122.311825
+514,1505 W Main St. #101,WA,Battle Ground,98601,515,"1505 W Main St. Battle Ground, WA",45.780297,-122.553331
+515,11220 NE 51st Cir.,WA,Vancouver,98682,516,"11220 NE 51st Cir. Vancouver, WA",45.659549,-122.55711
+516,14303 NE Fourth Plain Blvd,WA,Vancouver,98682,517,"14303 NE Fourth Plain Blvd Vancouver, WA",45.671626,-122.525512
+517,6609 Burden Blvd.,WA,Pasco,99301,518,"6609 Burden Blvd. Pasco, WA",46.270831,-119.177495
+518,2601 Court Street,WA,Pasco,99301,519,"2601 Court Street Pasco, WA",46.242115,-119.125941
+519,496 Keene Rd,WA,Richland,99352,520,"496 Keene Rd Richland, WA",46.23711,-119.283068
+520,512 Harrison Ave.,WA,Centralia,98531,521,"512 Harrison Ave. Centralia, WA",46.723137,-122.969893
+521,620 NW Arkansas Way,WA,Chehalis,98532,522,"620 NW Arkansas Way Chehalis, WA",46.678571,-122.974045
+522,19623 SW Elderberry Street,WA,Rochester,98579,523,"19623 SW Elderberry Street Rochester, WA",46.803535,-123.012687
+523,810 E Wishkah Street,WA,Aberdeen,98520,524,"810 E Wishkah Street Aberdeen, WA",46.97741,-123.808411
+524,2630 Yakima Valley Hwy.,WA,Sunnyside,98944,525,"2630 Yakima Valley Hwy. Sunnyside, WA",46.318968,-119.986384
+525,119 Merlot Dr,WA,Prosser,99350,526,"119 Merlot Dr Prosser, WA",46.220153,-119.787188
+526,630 S. 9th St.,WA,Walla Walla,99362,527,"630 S. 9th St. Walla Walla, WA",46.055696,-118.346168
+527,1731 Isaacs Ave,WA,Walla Walla,99362,528,"1731 Isaacs Ave Walla Walla, WA",46.075197,-118.311185
+528,2610 N.E. 138th Ave.,WA,Vancouver,98684,529,"2610 N.E. 138th Ave. Vancouver, WA",45.641847,-122.53132
+529,18911 SE Mill Plan Blvd,WA,East Vancouver,98683,530,"18911 SE Mill Plan Blvd East Vancouver, WA",45.616337,-122.479624
+530,1615 NW 6th Ave,WA,Camas,98607,531,"1615 NW 6th Ave Camas, WA",45.581083,-122.427973
+531,1026 N. Miller,WA,Wenatchee,98801,532,"1026 N. Miller Wenatchee, WA",47.436015,-120.325448
+532,685 Grant Rd.,WA,East Wenatchee,98802,533,"685 Grant Rd. East Wenatchee, WA",47.406405,-120.279464
+533,739 S Mission Street,WA,Wenatchee,98801,534,"739 S Mission Street Wenatchee, WA",47.413688,-120.304346
+534,104 Kelso Dr.,WA,Kelso,98626,535,"104 Kelso Dr. Kelso, WA",46.144875,-122.895456
+535,901 15th Ave.,WA,Longview,98632,536,"901 15th Ave. Longview, WA",46.130963,-122.940075
+536,905 Ocean Beach Hwy,WA,Longview,98632,537,"905 Ocean Beach Hwy Longview, WA",46.146092,-122.928309
+537,435 Beechwood Street,WA,Woodland,98674,538,"435 Beechwood Street Woodland, WA",45.908763,-122.745786
+538,121 N. Stratford Rd.,WA,Moses Lake,98837,539,"121 N. Stratford Rd. Moses Lake, WA",47.132472,-119.278027
+539,1800 Canyon Rd,WA,Ellensburg,98926,540,"1800 Canyon Rd Ellensburg, WA",46.97509,-120.540405
+540,410 W. 2nd Ave.,WA,Spokane,99201,541,"410 W. 2nd Ave. Spokane, WA",47.654748,-117.41846
+541,1010 W. Francis Ave.,WA,Spokane,99208,542,"1010 W. Francis Ave. Spokane, WA",47.715499,-117.425681
+542,1306 N. Division St.,WA,Spokane,99203,543,"1306 N. Division St. Spokane, WA",47.669817,-117.410849
+543,402 S. Freya St.,WA,Spokane,99202,544,"402 S. Freya St. Spokane, WA",47.652583,-117.357907
+544,8701 N. Division St.,WA,Spokane,99218,545,"8701 N. Division St. Spokane, WA",47.73696,-117.412294
+545,931 E. Francis Ave.,WA,Spokane,99208,546,"931 E. Francis Ave. Spokane, WA",47.715417,-117.39562
+546,20 N Pines Road,WA,Spokane Valley,99206,547,"20 N Pines Road Spokane Valley, WA",47.658021,-117.23936
+547,3421 N Market,WA,Spokane,99207,548,"3421 N Market Spokane, WA",47.688762,-117.365567
+548,9205 E 1st Ave.,WA,Spokane Valley,99206,549,"9205 E 1st Ave. Spokane Valley, WA",47.656112,-117.281122
+549,10109 W Sunset Hwy,WA,Spokane,99224,550,"10109 W Sunset Hwy Spokane, WA",47.642711,-117.550996
+550,11921 N. Division St,WA,Spokane,99218,551,"11921 N. Division St Spokane, WA",47.765385,-117.406452
+551,5700 N.E. 4th Plain Blvd.,WA,Vancouver,98661,552,"5700 N.E. 4th Plain Blvd. Vancouver, WA",45.64244,-122.613375
+552,10417 S.E. Mill Plain Blvd.,WA,Vancouver,98664,553,"10417 S.E. Mill Plain Blvd. Vancouver, WA",45.620697,-122.564809
+553,9913 NE Hazel Dell Avenue,WA,Vancouver,98685,554,"9913 NE Hazel Dell Avenue Vancouver, WA",45.693269,-122.66884
+554,7300 NE Hwy 99,WA,Vancouver,98665,555,"7300 NE Hwy 99 Vancouver, WA",45.67494,-122.663147
+555,14000 NE 20th Ave,WA,Vancouver,98686,556,"14000 NE 20th Ave Vancouver, WA",45.722499,-122.652304
+556,8100 NE Vancouver Mall Dr.,WA,Vancouver ,98662,557,"8100 NE Vancouver Mall Dr. Vancouver , WA",45.658812,-122.589987
+557,7225 Martin Way E.,WA,Olympia,98516,558,"7225 Martin Way E. Olympia, WA",47.052634,-122.784174
+558,8229 Martin Way,WA,Lacey,98516,559,"8229 Martin Way Lacey, WA",47.05581,-122.764969
+559,5210 Capitol Blvd,WA,Tumwater,98501,560,"5210 Capitol Blvd Tumwater, WA",47.000224,-122.908394
+560,719 Bridge St.,WA,Clarkston,99403,561,"719 Bridge St. Clarkston, WA",46.419671,-117.047822
+561,1253 State Ave,WA,Marysville,98270,562,"1253 State Ave Marysville, WA",48.063114,-122.177523
+562,201 39th Ave SW,WA,Puyallup,98373,563,"201 39th Ave SW Puyallup, WA",47.15504,-122.294805
+563,22022 E. Meridian,WA,Graham,98338,564,"22022 E. Meridian Graham, WA",47.056118,-122.295679
+564,5314 Pacific Hwy E,WA,Fife,98424,565,"5314 Pacific Hwy E Fife, WA",47.242756,-122.357464
+565,6229 Lake Grove St SW,WA,Lakewood,98499,566,"6229 Lake Grove St SW Lakewood, WA",47.168617,-122.52048
+566,8624 Steilacoom Blvd,WA,SW Lakewood,98498,567,"8624 Steilacoom Blvd SW Lakewood, WA",47.178956,-122.552984
+567,3623 Bethel RD,WA,SE Port Orchard,98366,568,"3623 Bethel RD SE Port Orchard, WA",47.515062,-122.630266
+568,3900 Wheaton Way,WA,Bremerton,98310,569,"3900 Wheaton Way Bremerton, WA",47.59994,-122.628924
